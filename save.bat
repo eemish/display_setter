@@ -1,0 +1,1 @@
+displaysetter.exe save configid %1

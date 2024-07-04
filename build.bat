@@ -1,0 +1,1 @@
+cl /Od /Zi /Wall /W3 /WX /EHsc /w45045 /Qspectre /D_CRT_SECURE_NO_WARNINGS "display_setter.cpp" user32.lib shell32.lib /link /out:displaysetter.exe
